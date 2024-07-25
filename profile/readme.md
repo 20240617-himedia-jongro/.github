@@ -16,3 +16,5 @@
 ### [01_Java](https://github.com/20240617-himedia-jongro/01_Java.git)
 ### [01_JavaPractice](https://github.com/20240617-himedia-jongro/01_JavaPractice)
 ### [02_MySQL](https://github.com/20240617-himedia-jongro/02_MySQL)
+### [03_JDBC](https://github.com/20240617-himedia-jongro/03_JDBC)
+### [04_MyBatis](https://github.com/20240617-himedia-jongro/04_MyBatis)
