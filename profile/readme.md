@@ -18,3 +18,4 @@
 ### [02_MySQL](https://github.com/20240617-himedia-jongro/02_MySQL)
 ### [03_JDBC](https://github.com/20240617-himedia-jongro/03_JDBC)
 ### [04_MyBatis](https://github.com/20240617-himedia-jongro/04_MyBatis)
+### [05_HTML](https://github.com/20240617-himedia-jongro/05_HTML)
