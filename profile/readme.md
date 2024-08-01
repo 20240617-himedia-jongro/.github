@@ -19,3 +19,7 @@
 ### [03_JDBC](https://github.com/20240617-himedia-jongro/03_JDBC)
 ### [04_MyBatis](https://github.com/20240617-himedia-jongro/04_MyBatis)
 ### [05_HTML](https://github.com/20240617-himedia-jongro/05_HTML)
+### [06_CSS](https://github.com/20240617-himedia-jongro/06_CSS)
+### [07_01_JavaScript-Core](https://github.com/20240617-himedia-jongro/07_01_JavaScript-Core)
+### [07_02_JavaScript-ES6](https://github.com/20240617-himedia-jongro/07_02_JavaScript-ES6)
+### [07_03_JavaScript-Web](https://github.com/20240617-himedia-jongro/07_03_JavaScript-Web)
