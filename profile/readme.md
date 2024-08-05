@@ -20,4 +20,4 @@
 ### [04_MyBatis](https://github.com/20240617-himedia-jongro/04_MyBatis)
 ### [05_HTML](https://github.com/20240617-himedia-jongro/05_HTML)
 ### [06_CSS](https://github.com/20240617-himedia-jongro/06_CSS)
-### [07_JavaScript-Core](https://github.com/20240617-himedia-jongro/07_JavaScript-Core)
+### [07_JavaScript](https://github.com/20240617-himedia-jongro/07_JavaScript)
