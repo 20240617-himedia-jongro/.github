@@ -17,15 +17,20 @@
 ### [01_Java](https://github.com/20240617-himedia-jongro/01_Java.git)
 ### [01_JavaPractice](https://github.com/20240617-himedia-jongro/01_JavaPractice)
 ### [02_MySQL](https://github.com/20240617-himedia-jongro/02_MySQL)
+### [02_MySQLPracitce](https://github.com/20240617-himedia-jongro/02_MySQLPracitce)
+
 #### 01. Back-end Basic
 ### [03_JDBC](https://github.com/20240617-himedia-jongro/03_JDBC)
 ### [04_MyBatis](https://github.com/20240617-himedia-jongro/04_MyBatis)
+
 #### 02. Front-end Foundation
 ### [05_HTML](https://github.com/20240617-himedia-jongro/05_HTML)
 ### [06_CSS](https://github.com/20240617-himedia-jongro/06_CSS)
 ### [07_JavaScript](https://github.com/20240617-himedia-jongro/07_JavaScript)
+
 #### 03. Web Foundation
 ### [08_Servlet](https://github.com/20240617-himedia-jongro/08_Servlet)
 ### [09_JSP](https://github.com/20240617-himedia-jongro/09_JSP)
+
 #### 04. Spring Framework
 ### [10_Spring-Core](https://github.com/20240617-himedia-jongro/10_Spring-Core)
