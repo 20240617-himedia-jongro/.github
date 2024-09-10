@@ -35,3 +35,4 @@
 #### 04. Spring Framework
 ### [10_Spring-Core](https://github.com/20240617-himedia-jongro/10_Spring-Core)
 ### [11_SpringBoot](https://github.com/20240617-himedia-jongro/11_SpringBoot)
+### [12_SpringSecurity](https://github.com/20240617-himedia-jongro/12_SpringSecurity)
